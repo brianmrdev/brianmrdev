@@ -4,7 +4,7 @@ Soy Desarrollador Web Backend con Python, creo aplicaciones web utilizando frame
 ## Mis proyectos 
 - [Bot para conocer resultados de PCR en la provincia de Holguín, Cuba.](https://github.com/brianmrdev/telegram-pcr-bot)
 - [Sitio web de promoción y gestión de reservas de un Hostal](https://www.hostalmanuelenrique.cu/)
-- [Plataforma de comercio electrónico](https://www.climaig.cu/)
+- [Sitio web de comercio electrónico](https://www.climaig.cu/)
 
 ## Mi stack de tecnologías 
 |Lenguajes de programación|Frontend|Backend|
