@@ -1,7 +1,7 @@
-# Hola 🤝! Soy Brian
-Soy Desarrollador Web Backend con Python, creo aplicaciones web utilizando frameworks como Django, FastAPI y Flask.
+# 🤝 Mi nombre es Brian!
+Soy Desarrollador Web Backend con Python, creo aplicaciones web utilizando frameworks como Django, FastAPI y Flask. De vez en cuando desarrollo también en el Frontend. 
 
-## Mis proyectos 
+## Algunos de mis proyectos 
 - [Bot para conocer resultados de PCR en la provincia de Holguín, Cuba.](https://github.com/brianmrdev/telegram-pcr-bot)
 - [Sitio web de promoción y gestión de reservas de un Hostal](https://www.hostalmanuelenrique.cu/)
 - [Sitio web de comercio electrónico](https://www.climaig.cu/)
