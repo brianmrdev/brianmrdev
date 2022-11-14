@@ -35,4 +35,4 @@ Soy Desarrollador Web Backend con Python, creo aplicaciones web utilizando frame
 - [LinkedIn](https://www.linkedin.com/in/brianmrdev/) trayectoria profesional.
 
 ## Recursos
-- [Curriculum Vitae](https://webdev.cu/cv) mi CV en formato PDF.
+- [Curriculum Vitae](https://webdev.cu/cv.pdf) mi CV en formato PDF.
